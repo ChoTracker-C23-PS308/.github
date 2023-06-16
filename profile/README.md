@@ -1,5 +1,7 @@
 # Hi! we are ChoTracker-C23-PS308 Team
 
+![plot](./chotracker)
+
 Team Members : 
 - (ML) Fadilla Rahim – Politeknik Negeri Jakarta 
 - (ML) Iga Yusdisti – Politeknik Negeri Jakarta
