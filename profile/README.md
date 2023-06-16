@@ -1,6 +1,6 @@
 # Hi! we are ChoTracker-C23-PS308 Team
 
-![plot]([./chotracker.png](https://storage.googleapis.com/dev-chotracker-image/chotracker.png))
+![plot]([chotracker.png](https://storage.googleapis.com/dev-chotracker-image/chotracker.png))
 
 Team Members : 
 - (ML) Fadilla Rahim – Politeknik Negeri Jakarta 
